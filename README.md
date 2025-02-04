@@ -8,6 +8,9 @@
 </a>
 <br/>
 <br/>
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&repo=cpp_module_00">
+  <img height=188 align="center" src="https://github.com/anuraghazra/github-readme-stats" />
+</a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&repo=cpp_module_00)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
