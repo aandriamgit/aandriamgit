@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74C7EC&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 <br/>
+<br/>
 <a href="https://git.io/streak-stats">
   <img height=188 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aandriamgit&theme=catppuccin-mocha&hide_border=true" />
 </a>
@@ -8,7 +9,7 @@
 </a>
 <br/>
 <br/>
-<br/>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&repo=cpp_module_00)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
