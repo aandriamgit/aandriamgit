@@ -8,19 +8,24 @@
   </a>  
 </div>
 <br/>
+<div>
 <a href="https://github.com/aandriamgit/cpp_module_00">
   <img height=115 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=cpp_module_00" />
 </a>
 <a href="https://github.com/aandriamgit/minishell">
   <img height=115 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=minishell" />
-</a>
+</a>  
+</div>
 <br/>
-<a href="https://github.com/aandriamgit/NetPractice">
+<div>
+ <a href="https://github.com/aandriamgit/NetPractice">
   <img height=115 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=NetPractice" />
 </a>
 <a href="https://github.com/aandriamgit/my_cub3d">
   <img height=115 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=my_cub3d" />
 </a>
+ 
+</div>
 
 <!--
 **aandriamgit/aandriamgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
