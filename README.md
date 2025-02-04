@@ -3,7 +3,7 @@
   <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aandriamgit&theme=catppuccin-mocha&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aandriamgit&layout=compact&langs_count=8&card_width=320&hide=shell&theme=catppuccin" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aandriamgit&layout=compact&langs_count=8&card_width=320&hide=shell&theme=catppuccin-mocha" />
 </a>
 
 <!--
