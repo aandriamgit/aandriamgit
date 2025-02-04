@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74C7EC&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
-<br/>
-<a href="https://git.io/streak-stats">
-  <img height=188 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aandriamgit&theme=catppuccin-mocha&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=188 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aandriamgit&layout=compact&langs_count=8&card_width=320&hide=shell&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&exclude_repo=push_swap_visu" />
-</a>
-<br/>
+<div>
+  <a href="https://git.io/streak-stats">
+    <img height=188 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aandriamgit&theme=catppuccin-mocha&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=188 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?        username=aandriamgit&layout=compact&langs_count=8&card_width=320&hide=shell&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&exclude_repo=push_swap_visu" />
+  </a>  
+</div>
 <br/>
 <a href="https://github.com/aandriamgit/cpp_module_00">
   <img height=115 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=cpp_module_00" />
