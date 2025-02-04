@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74C7EC&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aandriamgit&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
-[![](https://github-readme-stats.vercel.app/api?username=aandriamgit)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=aandriamgit)](https://github.com/anuraghazra/github-readme-stats&hide=stars,commits,prs,issues,contribs)
 
 <!--
 **aandriamgit/aandriamgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
