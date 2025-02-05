@@ -14,7 +14,8 @@ jobs:
 
       - name: Generate streak stats
         run: |
-          curl -o assets/streak-stats.svg "http://github-readme-streak-stats.herokuapp.com?user=aandriamgit&theme=catppuccin-mocha&hide_border=true"
+          mkdir -p assets
+          curl --retry 3 --fail -o assets/streak-stats.svg "http://github-readme-streak-stats.herokuapp.com?user=aandriamgit&theme=catppuccin-mocha&hide_border=true" || echo "⚠️ Échec du téléchargement, image non mise à jour."
 
       - name: Commit and push if changed
         run: |
