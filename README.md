@@ -19,9 +19,11 @@
 <br/>
 <div>
 <div/>
+<p align="center">
     <a href="https://github.com/aandriamgit?tab=repositories">
         <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Repositories" alt="My repositories" />
-    </a>
+    </a>    
+</p>
 <div>
     <a href="https://github.com/aandriamgit/cpp_module_00">
       <img height=115 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=cpp_module_00" />
