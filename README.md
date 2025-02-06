@@ -18,8 +18,8 @@
 <br/>
 <div>
 <div/>
-    <a href="https://github.com/aandriamgi?tab=repositories">
-        <p align="center">Repositories</p>
+    <a href="https://github.com/aandriamgit?tab=repositories">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Repositories" alt="My repositories" />
     </a>
 <div>
 <a href="https://github.com/aandriamgit/cpp_module_00">
