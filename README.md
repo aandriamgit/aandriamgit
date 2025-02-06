@@ -3,11 +3,11 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=⋆⁺₊⋆ ━━━━⊱ ཐི Aandriam ཋྀ ⊰━━━━ ⋆⁺₊⋆" alt="aandriamgit repo" />
     </a>
 	
-<div>
+<div align="center">
 	<div align="center">
-       <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+       <img alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<a href="https://www.cprogramming.com/" target="_blank"> <img alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 	</div>
 </div>
     <p align="center">
