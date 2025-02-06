@@ -4,11 +4,9 @@
     </a>
 	
 <div align="center">
-	<div>
        <img alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <a href="https://www.cprogramming.com/" target="_blank"> <img alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-	</div>
 </div>
     <p align="center">
       <a href="https://skillicons.dev">
