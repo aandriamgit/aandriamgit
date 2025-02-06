@@ -8,7 +8,7 @@
     <a href="https://github.com/aandriamgit">
         <svg width="850" height="150" viewBox="0 0 850 150" xmlns="http://www.w3.org/2000/svg">
             <foreignObject width="100%" height="100%" clip-path="inset(0 round 15px)">
-                <img src="asses/lollol.gif" width="850" height="150"/>
+                <img src="assets/lollol.gif" width="850" height="150"/>
             </foreignObject>
         </svg>
     </a>
