@@ -1,6 +1,12 @@
 
 <p align="center">
     <a href="https://github.com/aandriamgit">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=⋆⁺₊⋆ ━━━━⊱ ཐི Aandriam ཋྀ ⊰━━━━ ⋆⁺₊⋆" alt="aandriamgit repo" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/aandriamgit">
         <img src="assets/lollol.gif" alt="Banner" width=850 height=150  border-radius=15px>
     </a>
 <p/>
