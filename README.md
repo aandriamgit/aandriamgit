@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/aandriamgit">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=__________ ˗ˏˋSummary´ˎ˗ __________" alt="aandriamgit repo" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=__________˗ˏˋ ✎Summary ´ˎ˗__________" alt="aandriamgit repo" />
     </a>
 </p>
 
