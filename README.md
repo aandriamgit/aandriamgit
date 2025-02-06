@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/aandriamgit">
-        <img src="assets/lollol.gif" alt="Banner" width=700 height=200  style="border-radius: 15px;">
+        <img src="assets/lollol.gif" alt="Banner" width=750 height=250  style="border-radius: 15px;">
     </a>
 <p/>
 
