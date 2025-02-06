@@ -21,10 +21,9 @@
 <div>
 <div/>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Repositories" alt="Typing SVG" /></a>
     <a href="https://github.com/aandriamgit?tab=repositories">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Repositories" alt="My repositories" />
-    </a>    
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Repositories" alt="aandriamgit repo" />
+    </a>
 </p>
 <div>
     <a href="https://github.com/aandriamgit/cpp_module_00">
