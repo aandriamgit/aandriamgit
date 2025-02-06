@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/aandriamgit">
-        <img src="assets/lol.gif" alt="Brave logo" width=110 height=128>
+        <img src="assets/lol.gif" alt="Banner" width=500 height=128>
     </a>
 <p/>
 
