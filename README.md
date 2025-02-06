@@ -23,13 +23,13 @@
         <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Repositories" alt="My repositories" />
     </a>
 <div>
-<a href="https://github.com/aandriamgit/cpp_module_00">
-  <img height=115 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=cpp_module_00" />
-</a>
+    <a href="https://github.com/aandriamgit/cpp_module_00">
+      <img height=115 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=cpp_module_00" />
+    </a>
+</div>
 <a href="https://github.com/aandriamgit/minishell">
   <img height=115 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=minishell" />
-</a>  
-</div>
+</a> 
 <br/>
 <br/>
 <br/>
