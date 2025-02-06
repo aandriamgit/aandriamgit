@@ -11,6 +11,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=__________✧✎𓂃 ݁ Summary ⊹.°˖__________" alt="aandriamgit repo" />
     </a>
 </p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Simplicity+isn%E2%80%99t+laziness.;Over-optimization+kills.;Bugs+are+features+in+denial.;Raycasting%3A+mapping+illusions.;If+the+compiler%E2%80%99s+happy%2C+I%E2%80%99m+wary.;Clarity+is+beauty.;Understand+it%2C+or+expect+pain.;Apathy+for+gods%2C+not+for+codes.;Solve+first.+Code+later.;Time+isn%E2%80%99t+the+issue%2C+focus+is.;Good+code+tells+a+story.;Great+devs+think+in+consequences.;Git+commits+are+confessions.;A+semicolon+can+be+fatal.)](https://git.io/typing-svg)
 <div>
   <a href="https://github.com/aandriamgit">
