@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Repositories" alt="Typing SVG" /></a>
 <p align="center">
     <a href="https://github.com/aandriamgit">
         <img src="assets/lollol.gif" alt="Banner" width=850 height=150  style="border-radius: 15px;">
