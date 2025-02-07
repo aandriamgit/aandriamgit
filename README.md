@@ -44,7 +44,9 @@
 <a/>
 
 </div>
+<br/>
 <div>
+<br/>
 <br/>
 <div/>
 <p align="center">
@@ -60,6 +62,7 @@
 <a href="https://github.com/aandriamgit/minishell">
   <img height=115 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=minishell" />
 </a> 
+<br/>
 <br/>
 <br/>
 <br/>
