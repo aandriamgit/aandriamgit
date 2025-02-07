@@ -18,9 +18,8 @@
     <a href="https://github.com/aandriamgit">
         <img src="assets/lollol.gif" alt="Banner" width=850 height=150  border-radius=15px>
     </a>
-<div>
+<div align="center">
      <a href="#" target="_blank"> <img alt="holla john" width="110px" src="./assets/holla-john.svg"/> </a>
-     <a href="#" target="_blank"> <img alt="test" src="https://img.shields.io/badge/test-lol-f38ba8.svg"/> </a>
 </div>
 <p/>
 
