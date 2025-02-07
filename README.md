@@ -19,8 +19,8 @@
         <img src="assets/lollol.gif" alt="Banner" width=850 height=150  border-radius=15px>
     </a>
     <div align="center">
-        <a href="#" target="_blank"> <img alt="nationality" width="120px" src="./assets/nationality.svg"/> </a>
-        <a href="#" target="_blank"> <img alt="campus" width="130px" src="./assets/campus-antananarivo.svg"/> </a>
+        <a href="#" target="_blank"> <img alt="nationality" width="132px" src="./assets/nationality.svg"/> </a>
+        <a href="#" target="_blank"> <img alt="campus" width="132px" src="./assets/campus-antananarivo.svg"/> </a>
         <a href="#" target="_blank"> <img alt="login" width="100px" src="./assets/login.svg"/> </a>
         <a href="#" target="_blank"> <img alt="grade" width="100px" src="./assets/grade-learner.svg"/> </a>
     </div>
