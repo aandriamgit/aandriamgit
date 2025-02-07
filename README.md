@@ -17,6 +17,9 @@
         <img width= src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
       </a>
     </p>
+<div>
+     [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+</div>
 </p>
 
 <p align="center">
