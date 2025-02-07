@@ -12,20 +12,15 @@
 <a href="https://git-scm.com/" target="_blank"> <img alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"/> </a>
        <img alt="GitHub" width="26px" src="./assets/github.svg" />
 </div>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img width= src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-      </a>
-    </p>
-<div>
-     [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-</div>
 </p>
 
 <p align="center">
     <a href="https://github.com/aandriamgit">
         <img src="assets/lollol.gif" alt="Banner" width=850 height=150  border-radius=15px>
     </a>
+<div>
+     [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+</div>
 <p/>
 
 <br/>
