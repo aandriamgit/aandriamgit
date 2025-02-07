@@ -19,6 +19,7 @@
         <img src="assets/lollol.gif" alt="Banner" width=850 height=150  border-radius=15px>
     </a>
 <div>
+     <a href="#" target="_blank"> <img alt="test" src="https://img.shields.io/badge/<test>-<lol>-<f38ba8>.svg"/> </a>
      [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 </div>
 <p/>
