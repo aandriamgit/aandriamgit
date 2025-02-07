@@ -5,7 +5,7 @@
 	
 <h3 align="center">Hello There, the name is Aina Rajaonah. Here some of my skills:</h3>
 <div align="center">
-<a href="https://www.cprogramming.com/" target="_blank"> <img alt="C" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img alt="C" width="32px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <a href="https://www.vim.org/" target="_blank"> <img alt="Vim" width="26px" src="assets/vim-icon.svg"/> </a>
        <img alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
