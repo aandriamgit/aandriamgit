@@ -4,9 +4,9 @@
     </a>
 	
 <h3 align="center">Hello There, the name is Aina Rajaonah</h3>
-<h4 align="center">Still learning but here are some of my skills:</h4>
 <div align="center">
-       <img alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<h4 align="center">Still learning but here are some of my skills:</h4>
+       <img alt="GitHub" width="26px" align="center" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <a href="https://www.cprogramming.com/" target="_blank"> <img alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 </div>
