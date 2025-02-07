@@ -19,8 +19,7 @@
         <img src="assets/lollol.gif" alt="Banner" width=850 height=150  border-radius=15px>
     </a>
 <div>
-
-[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzAuNjA5NDE2OTYxNjY5OTIiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxMzAuNjA5NDE2OTYxNjY5OTIgMzUiPjxyZWN0IHdpZHRoPSI2OS4zMTI1MjI4ODgxODM2IiBoZWlnaHQ9IjM1IiBmaWxsPSIjMzEzMjQ0IiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDogIzI3MjgzNjsiLz48cmVjdCB4PSI2OS4zMTI1MjI4ODgxODM2IiB3aWR0aD0iNjEuMjk2ODk0MDczNDg2MzMiIGhlaWdodD0iMzUiIGZpbGw9IiMzODlBRDUiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiAjMjI3MmEyOyIvPjx0ZXh0IHg9IjM0LjY1NjI2MTQ0NDA5MTgiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiAjZThlNmUzOyI+SE9MTEE8L3RleHQ+PHRleHQgeD0iOTkuOTYwOTY5OTI0OTI2NzYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGxldHRlci1zcGFjaW5nPSIyIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDogI2U4ZTZlMzsiPkpPSE48L3RleHQ+PC9zdmc+)](https://forthebadge.com)
+     <a href="#" target="_blank"> <img alt="./assets/holla-john.svg" src="https://img.shields.io/badge/test-lol-f38ba8.svg"/> </a>
      <a href="#" target="_blank"> <img alt="test" src="https://img.shields.io/badge/test-lol-f38ba8.svg"/> </a>
 </div>
 <p/>
