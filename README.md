@@ -3,6 +3,8 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=⋆⁺₊⋆ ━━━━⊱ ཐི Aandriam ཋྀ ⊰━━━━ ⋆⁺₊⋆" alt="aandriamgit repo" />
     </a>
 	
+<h2>holla</h2>
+<h3>holla</h3>
 <p align="center">Hello There, The name is Aina Rajaonah (aandriam), still a learning. Here some of my skills:</p>
 <div align="center">
        <img alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
