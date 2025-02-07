@@ -18,9 +18,12 @@
     <a href="https://github.com/aandriamgit">
         <img src="assets/lollol.gif" alt="Banner" width=850 height=150  border-radius=15px>
     </a>
-<div align="center">
-     <a href="#" target="_blank"> <img alt="holla john" width="110px" src="./assets/holla-john.svg"/> </a>
-</div>
+    <div align="center">
+        <a href="#" target="_blank"> <img alt="nationality" width="110px" src="./assets/nationality.svg"/> </a>
+        <a href="#" target="_blank"> <img alt="campus" width="110px" src="./assets/campus-antananarivo.svg"/> </a>
+        <a href="#" target="_blank"> <img alt="login" width="110px" src="./assets/login.svg"/> </a>
+        <a href="#" target="_blank"> <img alt="grade" width="110px" src="./assets/grade-learner.svg"/> </a>
+    </div>
 <p/>
 
 <br/>
