@@ -27,7 +27,6 @@
 <p/>
 
 <br/>
-<br/>
 <p align="center">
     <a href="https://github.com/aandriamgit">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=__________˗ˏˋ ✎Summary ´ˎ˗__________" alt="aandriamgit repo" />
@@ -45,9 +44,7 @@
 <a/>
 
 </div>
-<br/>
 <div>
-<br/>
 <br/>
 <div/>
 <p align="center">
@@ -63,7 +60,6 @@
 <a href="https://github.com/aandriamgit/minishell">
   <img height=115 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=minishell" />
 </a> 
-<br/>
 <br/>
 <br/>
 <br/>
