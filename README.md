@@ -3,9 +3,8 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=⋆⁺₊⋆ ━━━━⊱ ཐི Aandriam ཋྀ ⊰━━━━ ⋆⁺₊⋆" alt="aandriamgit repo" />
     </a>
 	
-<h2>holla</h2>
-<h3>holla</h3>
-<p align="center">Hello There, The name is Aina Rajaonah (aandriam), still a learning. Here some of my skills:</p>
+<h3 align="center">Hello There, the name is Aina Rajaonah</h3>
+<h4 align="center">Still learning but here are some of my skills:</h4>
 <div align="center">
        <img alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <a href="https://www.cprogramming.com/" target="_blank"> <img alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
