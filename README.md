@@ -54,7 +54,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=__________˚˖𓍢 🗒Repositories ‧₊˚__________" alt="aandriamgit repo" />
     </a>
 </p>
-<div>
+/*<div>
     <a href="https://github.com/aandriamgit/cpp_module_00">
       <img height=115 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=cpp_module_00" />
     </a>
@@ -71,7 +71,7 @@
 <br/>
  <a href="https://github.com/aandriamgit/NetPractice">
   <img height=115 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=NetPractice" />
-</a>
+</a>*/
 <a href="https://github.com/aandriamgit/my_cub3d">
   <img height=115 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=my_cub3d" />
 </a>
