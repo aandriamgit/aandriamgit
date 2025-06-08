@@ -46,9 +46,7 @@
 <br/>
 <div/>
 <p align="center">
-    <a href="https://github.com/aandriamgit?tab=repositories">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=__________˚˖𓍢 🗒Repositories ‧₊˚__________" alt="aandriamgit repo" />
-    </a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FAB387&vCenter=true&repeat=false&width=435&lines=__________%CB%9A%CB%96%F0%93%8D%A2+%F0%9F%97%92Repositories+%E2%80%A7%E2%82%8A%CB%9A__________" alt="Typing SVG" /></a>
 </p>
 <a href="https://github.com/aandriamgit/kitty">
   <img height=115 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=kitty" />
