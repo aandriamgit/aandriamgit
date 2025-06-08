@@ -31,7 +31,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Simplicity+isn%E2%80%99t+laziness.;Over-optimization+kills.;Bugs+are+features+in+denial.;Raycasting%3A+mapping+illusions.;If+the+compiler%E2%80%99s+happy%2C+I%E2%80%99m+wary.;Clarity+is+beauty.;Understand+it%2C+or+expect+pain.;Apathy+for+gods%2C+not+for+codes.;Solve+first.+Code+later.;Time+isn%E2%80%99t+the+issue%2C+focus+is.;Good+code+tells+a+story.;Great+devs+think+in+consequences.;Git+commits+are+confessions.;A+semicolon+can+be+fatal.)](#)
     
-<div alight="center">
+<div>
   <a href="https://github.com/aandriamgit">
   <img height=188 align="center" src="assets/streak-stats.svg" />
 <a/>
@@ -48,12 +48,15 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=FAB387&Center=true&vCenter=true&repeat=false&width=435&lines=++__________%CB%9A%CB%96%F0%93%8D%A2+%F0%9F%97%92Repositories+%E2%80%A7%E2%82%8A%CB%9A__________" alt="Typing SVG" /></a>
 </p>
+<div align="center">
 <a href="https://github.com/aandriamgit/kitty">
   <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=kitty" />
 </a>
 <a href="https://github.com/aandriamgit/my_cub3d">
   <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=my_cub3d" />
 </a>
+</div>
+
 <br/>
 <br/>
 <br/>
