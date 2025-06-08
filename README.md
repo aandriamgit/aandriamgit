@@ -33,10 +33,10 @@
 
     
 <div align="center">
-  <a href="https://github.com/aandriamgit">
+  <a href="https://github.com/aandriamgit?tab=repositories">
   <img height=188 align="center" src="assets/streak-stats.svg" />
 <a/>
-  <a href="https://github.com/aandriamgit">
+  <a href="https://github.com/aandriamgit?tab=repositories">
     <img height=188 align="center" src="assets/top-langs.svg" />
 <a/>
 
