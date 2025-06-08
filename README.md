@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=FAB387&vCenter=true&repeat=false&width=435&lines=%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%8A%B1+%E0%BD%90%E0%BD%B2+Aandriam+%E0%BD%8B%E0%BE%80+%E2%8A%B0%E2%94%81%E2%94%81%E2%94%81%E2%94%81+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=FAB387&center=true&vCenter=true&repeat=false&width=435&lines=%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%8A%B1+%E0%BD%90%E0%BD%B2+Aandriam+%E0%BD%8B%E0%BE%80+%E2%8A%B0%E2%94%81%E2%94%81%E2%94%81%E2%94%81+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86" alt="Typing SVG" /></a>
 	
 <h3 align="center">Hello There, the name is Aina Rajaonah. Here some of my skills:</h3>
 <div align="center">
