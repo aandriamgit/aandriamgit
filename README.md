@@ -26,8 +26,7 @@
 
 <br/>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=FAB387&Center=true&vCenter=true&repeat=false&width=435&lines= 
-  __________%CB%97%CB%8F%CB%8B+%E2%9C%8ESummary+%C2%B4%CB%8E%CB%97__________" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=FAB387&center=true&vCenter=true&repeat=false&width=435&lines=++__________%CB%97%CB%8F%CB%8B+%E2%9C%8ESummary+%C2%B4%CB%8E%CB%97__________" alt="Typing SVG" /></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Simplicity+isn%E2%80%99t+laziness.;Over-optimization+kills.;Bugs+are+features+in+denial.;Raycasting%3A+mapping+illusions.;If+the+compiler%E2%80%99s+happy%2C+I%E2%80%99m+wary.;Clarity+is+beauty.;Understand+it%2C+or+expect+pain.;Apathy+for+gods%2C+not+for+codes.;Solve+first.+Code+later.;Time+isn%E2%80%99t+the+issue%2C+focus+is.;Good+code+tells+a+story.;Great+devs+think+in+consequences.;Git+commits+are+confessions.;A+semicolon+can+be+fatal.)](#)
