@@ -66,10 +66,10 @@
 <br/>
 <div align="center">
 	 <a href="https://github.com/aandriamgit/godot_test_gdextension">
-  <img height=115 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=godot_test_gdextension" />
+  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=godot_test_gdextension" />
 </a>
 <a href="https://github.com/aandriamgit/nvim">
-  <img height=115 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=nvim" />
+  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=nvim" />
 </a>
 </div>
 </div>
