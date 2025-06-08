@@ -1,7 +1,4 @@
 <p align="center">
-//    <a href="https://github.com/aandriamgit">
- //       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=FAB387&repeat=false&width=435&lines=⋆⁺₊⋆ ━━━━⊱ ཐི Aandriam ཋྀ ⊰━━━━ ⋆⁺₊⋆" alt="aandriamgit repo" />
-  //  </a>
     <a href="https://github.com/aandriamgit">
 	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FAB387&repeat=false&width=435&lines=%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%8A%B1+%E0%BD%90%E0%BD%B2+Aandriam+%E0%BD%8B%E0%BE%80+%E2%8A%B0%E2%94%81%E2%94%81%E2%94%81%E2%94%81+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86" alt="Typing SVG" />
     </a>
