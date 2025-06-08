@@ -50,10 +50,10 @@
 </p>
 <div align="center">
 <a href="https://github.com/aandriamgit/kitty">
-  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=kitty" />
+  <img height=115 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=kitty" />
 </a>
 <a href="https://github.com/aandriamgit/my_cub3d">
-  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=my_cub3d" />
+  <img height=115 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=my_cub3d" />
 </a>
 </div>
 
