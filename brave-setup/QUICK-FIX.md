@@ -4,9 +4,9 @@
 
 ### Issue 1: Desktop entry not working
 **Current setup:**
-- File: `/home/aandriam/.local/share/applications/brave.desktop`
-- Brave location: `/home/aandriam/.local/bin/Brave`
-- Icon: `/home/aandriam/.local/share/icons/brave.png`
+- File: `~/.local/share/applications/brave.desktop`
+- Brave location: `~/.local/bin/Brave`
+- Icon: `~/.local/share/icons/brave.png`
 
 **Problem:** The desktop entry you created might be missing some important fields or have permission issues.
 
@@ -52,8 +52,8 @@ The script will:
 [Desktop Entry]
 Name=Brave
 Comment=Navigateur web Brave
-Exec=/home/aandriam/.local/bin/Brave
-Icon=/home/aandriam/.local/share/icons/brave.png
+Exec=~/.local/bin/Brave
+Icon=~/.local/share/icons/brave.png
 Terminal=false
 Type=Application
 Categories=Network;WebBrowser;
@@ -64,8 +64,8 @@ Categories=Network;WebBrowser;
 [Desktop Entry]
 Name=Brave Browser
 Comment=Brave Web Browser
-Exec=/home/aandriam/.local/bin/Brave --no-sandbox %U
-Icon=/home/aandriam/.local/share/icons/brave.png
+Exec=~/.local/bin/Brave --no-sandbox %U
+Icon=~/.local/share/icons/brave.png
 Terminal=false
 Type=Application
 Categories=Network;WebBrowser;
@@ -76,11 +76,11 @@ Actions=NewWindow;NewPrivateWindow;
 
 [Desktop Action NewWindow]
 Name=New Window
-Exec=/home/aandriam/.local/bin/Brave --no-sandbox
+Exec=~/.local/bin/Brave --no-sandbox
 
 [Desktop Action NewPrivateWindow]
 Name=New Private Window
-Exec=/home/aandriam/.local/bin/Brave --no-sandbox --incognito
+Exec=~/.local/bin/Brave --no-sandbox --incognito
 ```
 
 ### Key improvements:

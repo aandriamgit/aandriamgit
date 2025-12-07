@@ -54,9 +54,11 @@ fi
 # Create applications directory if it doesn't exist
 mkdir -p "$APPLICATIONS_DIR"
 
-# Copy desktop file
+# Copy desktop file and update paths
 echo -e "${YELLOW}Installing desktop entry...${NC}"
 cp "$(dirname "$0")/brave.desktop" "$DESKTOP_FILE"
+# Replace HOME_PATH placeholder with actual home directory
+sed -i "s|HOME_PATH|${HOME}|g" "$DESKTOP_FILE"
 chmod 644 "$DESKTOP_FILE"
 echo -e "${GREEN}✓ Desktop entry installed at ${DESKTOP_FILE}${NC}\n"
 
@@ -71,6 +73,7 @@ fi
 echo -e "${YELLOW}Creating desktop shortcut...${NC}"
 cp "$DESKTOP_FILE" "$DESKTOP_DIR/brave.desktop"
 chmod 755 "$DESKTOP_DIR/brave.desktop"
+# The desktop file already has paths replaced from the earlier copy
 
 # Try to mark it as trusted (for some desktop environments)
 if command -v gio &> /dev/null; then

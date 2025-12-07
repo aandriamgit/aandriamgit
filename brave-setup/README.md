@@ -19,8 +19,8 @@ This setup provides:
 
 ## Prerequisites
 
-1. Brave browser AppImage should be located at: `/home/aandriam/.local/bin/Brave`
-2. (Optional) Brave icon should be at: `/home/aandriam/.local/share/icons/brave.png`
+1. Brave browser AppImage should be located at: `~/.local/bin/Brave`
+2. (Optional) Brave icon should be at: `~/.local/share/icons/brave.png`
 
 ## Installation
 
@@ -103,6 +103,8 @@ The provided `brave.desktop` file includes:
   - New Private Window
 - **MIME types**: Properly associated with web content types
 - **No sandbox flag**: Includes `--no-sandbox` for compatibility (required for some systems)
+
+**Note:** The template uses `HOME_PATH` as a placeholder which is automatically replaced with your actual home directory during installation. This makes the setup work for any user.
 
 ## Diagnostic Tool
 
