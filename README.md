@@ -54,8 +54,8 @@
 <a href="https://github.com/aandriamgit/kitty">
   <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=kitty" />
 </a>
-<a href="https://github.com/aandriamgit/command_sh">
-  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=command_sh" />
+<a href="https://github.com/aandriamgit/nvim">
+  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=nvim" />
 </a>
 </div>
 
@@ -66,8 +66,8 @@
 	 <a href="https://github.com/aandriamgit/godot_test_gdextension">
   <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=godot_test_gdextension" />
 </a>
-<a href="https://github.com/aandriamgit/nvim">
-  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=nvim" />
+<a href="https://github.com/aandriamgit/CppSrc">
+  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aandriamgit&theme=catppuccin_mocha&repo=CppSrc" />
 </a>
 </div>
 </div>
