@@ -70,3 +70,26 @@
 </a>
 </div>
 </div>
+
+---
+
+## 🛠️ Configuration & Setup Scripts
+
+### Brave Browser Desktop Integration
+This repository includes a complete setup for integrating Brave browser as a desktop application.
+
+📁 **Location**: `brave-setup/`
+
+**Features:**
+- Proper `.desktop` file with MIME types and actions
+- Automated installation script
+- Fixes AppImage integration dialog issues
+- Creates desktop shortcuts
+
+**Quick Start:**
+```bash
+cd brave-setup
+./install-brave-desktop.sh
+```
+
+📖 See [brave-setup/README.md](brave-setup/README.md) for detailed instructions.
