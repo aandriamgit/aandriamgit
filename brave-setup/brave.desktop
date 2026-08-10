@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Brave Browser
+Comment=Brave Web Browser
+Exec=HOME_PATH/.local/bin/Brave --no-sandbox %U
+Icon=HOME_PATH/.local/share/icons/brave.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/vnd.mozilla.xul+xml;application/rss+xml;application/rdf+xml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=true
+StartupWMClass=brave-browser
+Actions=NewWindow;NewPrivateWindow;
+
+[Desktop Action NewWindow]
+Name=New Window
+Exec=HOME_PATH/.local/bin/Brave --no-sandbox
+
+[Desktop Action NewPrivateWindow]
+Name=New Private Window
+Exec=HOME_PATH/.local/bin/Brave --no-sandbox --incognito
